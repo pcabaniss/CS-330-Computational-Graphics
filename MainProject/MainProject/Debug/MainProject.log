@@ -1,0 +1,16 @@
+﻿  Source.cpp
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(23,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\models.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(24,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\SceneManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\SceneManager.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(278,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(404,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(405,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(409,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(410,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(412,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(413,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(423,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+U:\Users\p.cabaniss_snhu\source\repos\MainProject\MainProject\Source.cpp(492,23): warning C4018: '<': signed/unsigned mismatch
+  MainProject.vcxproj -> U:\Users\p.cabaniss_snhu\source\repos\MainProject\Debug\MainProject.exe
